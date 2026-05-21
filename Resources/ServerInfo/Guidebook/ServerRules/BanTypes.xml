@@ -6,13 +6,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Ban Types
+  # Tipos de Banimento
 
-  Bans can be appealed at forum.ss14.io in the ban appeals section.
+  Banimentos podem ser contestados em forum.ss14.io na seção de recursos de banimento.
 
-  ## Role Ban
-  Also called a "job ban", this ban prevents your character from joining or late-joining a round as one or more jobs or roles. These are often used in response to problematic behavior in particular departments or address gross inexperience in important roles such as heads of staff. These bans do not mechanically prevent you from switching to the role during a round or acting as that role, but doing so is considered ban evasion.
+  ## Banimento de Cargo
+  Também chamado de "job ban", este banimento impede seu personagem de entrar ou entrar atrasado em uma rodada como um ou mais cargos ou funções. São frequentemente usados em resposta a comportamento problemático em departamentos específicos ou para lidar com grave inexperiência em cargos importantes como chefes de equipe. Estes banimentos não impedem mecanicamente que você mude para o cargo durante uma rodada ou aja como tal, mas fazer isso é considerado evasão de banimento.
 
-  ## Game Ban
-  Also called a "server ban", this ban prevents you from connecting to all Wizard's Den servers.
+  ## Banimento de Jogo
+  Também chamado de "server ban", este banimento impede você de conectar a todos os servidores do Wizard's Den.
 </Document>

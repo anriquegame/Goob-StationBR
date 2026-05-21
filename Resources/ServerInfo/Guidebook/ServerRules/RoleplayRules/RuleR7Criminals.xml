@@ -6,20 +6,20 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Roleplay Rule 7 - Deal with the bad guys in proportion to their crime(s).
-  Restricted antagonists (or crewmembers) should be handled in proportion to their committed crimes. The decision to execute an antagonist should have good in-character reasoning based on their crimes and the state of the shift. Punishments against antagonists that repeatedly commit minor crimes may be escalated. Only antagonists that have committed the most severe crimes may be met with immediate execution.
+  # Regra de Roleplay 7 - Lide com os bandidos na proporção de seus crimes.
+  Antagonistas restritos (ou tripulantes) devem ser tratados na proporção dos crimes que cometeram. A decisão de executar um antagonista deve ter uma boa justificativa IC baseada em seus crimes e no estado do turno. Punições contra antagonistas que cometem repetidamente crimes menores podem ser aumentadas. Apenas antagonistas que cometeram os crimes mais graves podem ser executados imediatamente.
 
-  Security members are expected to consider the full range of punishment options available when dealing with antags. This includes (but is not always limited to) pacification, implants, timed brig sentences, gulag sentences, permabrig, forced borging and execution. Forced borging is considered equivalent to execution in punishment severity.
+  Espera-se que membros da segurança considerem toda a gama de opções de punição disponíveis ao lidar com antags. Isso inclui (mas não se limita a) pacificação, implantes, sentenças temporárias de brig, sentenças de gulag, permabrig, ciborguização forçada e execução. Ciborguização forçada é considerada equivalente à execução em termos de severidade da punição.
 
-  Explicitly friendly antagonists do not have this protection and may be treated as the crew or admin team see fit.
+  Antagonistas explicitamente amigáveis não têm essa proteção e podem ser tratados como a tripulação ou a equipe administrativa acharem melhor.
 
-  See: [textlink="Space Law" link="SpaceLaw"]
+  Veja: [textlink="Lei Espacial" link="SpaceLaw"]
 
-  ## Precedents
+  ## Precedentes
 
-  - When dealing with the crew and antagonists, make sure their punishments are in proportion to their crime(s). Minor crimes such as departmental break-ins, stolen equipment should be met with short, but increasing sentences depending on recurring visits by the apprehended. Stealing critical station equipment and items such as the hand teleporter, Chief Engineer's hardsuit, or AI upload boards are more severe crimes and should be met with longer prison times, or potentially permabrigging if the crime is deemed severe enough.
-  - Murder and Major Sabotage rank amongst the most severe of crimes and can generally be met with permanent imprisonment or death, though leniency can still be offered. These are all general guidelines, and the particular context of a situation can vary greatly, so you are given some leeway as to how harsh or lenient you can be.
-  - You should make an effort, if the situation permits, to contact a superior as to their thoughts when a situation arises in which a prisoner may be executed or permanently imprisoned.
-  - The overall status of the station factors in to the severity of committed crimes and the proportionality of security response, an assault on an officer resulting in an arrest is unlikely to be worthy of execution while the station is in perfect shape and security are otherwise unoccupied, but is reasonably worthy of an on-the-spot field execution if it occurs during active assault by war-ops with comms down and half the station torn in half by explosions.
-  - Security are fully allowed and encouraged to use non-standard or lesser punishments such as community service, mandatory psychological visits or other interaction-focused less punitive punishments where relevant and fun – crimes do not have to be met with standard punishments where other options are more interesting.
+  - Ao lidar com a tripulação e antagonistas, certifique-se de que as punições sejam proporcionais aos crimes cometidos. Crimes menores, como invasão de departamento ou roubo de equipamento, devem ser punidos com sentenças curtas, mas crescentes, dependendo das reincidências do detido. Roubar equipamentos críticos da estação e itens como o teleporter portátil, o hardsuit do Chefe de Engenharia ou placas de upload da IA são crimes mais graves e devem ser punidos com períodos maiores de prisão, ou potencialmente permabrig se o crime for considerado grave o suficiente.
+  - Assassinato e Sabotagem Grave estão entre os crimes mais severos e geralmente podem ser punidos com prisão perpétua ou morte, embora clemência ainda possa ser oferecida. Estas são diretrizes gerais, e o contexto particular de uma situação pode variar muito, então você tem certa margem para decidir o quão severo ou indulgente pode ser.
+  - Você deve se esforçar, se a situação permitir, para contatar um superior para saber sua opinião quando surgir uma situação em que um prisioneiro possa ser executado ou preso permanentemente.
+  - O estado geral da estação influencia a gravidade dos crimes cometidos e a proporcionalidade da resposta da segurança. Uma agressão a um oficial resultando em prisão dificilmente merece execução enquanto a estação está em perfeito estado e a segurança está desocupada, mas é razoavelmente digna de uma execução sumária no local se ocorrer durante um ataque ativo de war-ops com comunicações fora do ar e metade da estação destruída por explosões.
+  - A segurança tem total permissão e é incentivada a usar punições não padronizadas ou mais leves, como serviço comunitário, consultas psicológicas obrigatórias ou outras punições menos punitivas e focadas em interação quando relevantes e divertidas — os crimes não precisam ser punidos com punições padrão quando outras opções são mais interessantes.
 </Document>
