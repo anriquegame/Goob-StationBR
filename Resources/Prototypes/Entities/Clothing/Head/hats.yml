@@ -1650,6 +1650,23 @@
       - MouseWearable # Goobstation
 
 - type: entity
+  parent: ClothingHeadHatCowboyBrown
+  id: ClothingHeadHatGarden
+  name: garden hat
+  components:
+    - type: Sprite
+      sprite: Clothing/Head/Hats/gardenhat.rsi
+    - type: Clothing
+      sprite: Clothing/Head/Hats/gardenhat.rsi
+    - type: Tag
+      tags:
+      - PetWearable
+      - CorgiWearable
+      - WhitelistChameleon
+      - HamsterWearable
+      - MouseWearable # Goobstation
+
+- type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatStrawHat
   name: straw hat
