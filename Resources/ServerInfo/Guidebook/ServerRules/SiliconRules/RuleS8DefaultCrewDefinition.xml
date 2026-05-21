@@ -7,23 +7,23 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Silicon Rule 8 - Your HUD determines who is crew
-  Unless a law redefines the definition of crew, then anyone who the HUD indicates to you has a job, including passengers, is a crewmember. You cannot do something that causes someone to not be considered crew, but you can allow someone else to do something that causes someone to not be crew.
+  # Regra de Silício 8 — Seu HUD determina quem é tripulação
+  A menos que uma lei redefina o conceito de tripulação, qualquer pessoa que o HUD indique como tendo um cargo, incluindo passageiros, é um tripulante. Você não pode fazer algo que faça com que alguém deixe de ser considerado tripulação, mas pode permitir que outra pessoa faça algo que faça alguém deixar de ser tripulação.
 
-  Under the default cyborg lawset you cannot harm any crew without an order from the AI, regardless of the harm they may bring to others.
+  No conjunto de leis padrão de ciborgue, você não pode machucar nenhum tripulante sem uma ordem da IA, independentemente do dano que essa pessoa possa causar a outros.
 
-  Crew is ANYONE with a job icon including:
-  - Changelings
-  - Nuclear Operatives
-  - Heretics
-  - Zombies
-  Note: This list is not exhaustive and includes ANY being bearing a job icon
+  Tripulação é QUALQUER UM com um ícone de cargo, incluindo:
+  - Metamorfos
+  - Operativos Nucleares
+  - Hereges
+  - Zumbis
+  Nota: Esta lista não é exaustiva e inclui QUALQUER SER que possua um ícone de cargo
 
-  Not Crew:
-  - A captain who has lost their ID and icon
-  - An invisible person who due to being invisible has no icon
+  Não são Tripulação:
+  - Um capitão que perdeu seu ID e ícone
+  - Uma pessoa invisível que, por estar invisível, não tem ícone
 
-  Icons that are not job icons:
-  - Empty grey square, such as those on syndicate IDs
-  - A question mark that indicates lack of ID
+  Ícones que NÃO são ícones de cargo:
+  - Quadrado cinza vazio, como os encontrados em IDs sindicalistas
+  - Um ponto de interrogação que indica falta de ID
 </Document>

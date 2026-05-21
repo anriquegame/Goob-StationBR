@@ -6,19 +6,19 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Ban Durations
+  # Tipos de Duração de Banimento
 
-  Bans can be appealed at forum.ss14.io in the ban appeals section.
+  Banimentos podem ser contestados em forum.ss14.io na seção de recursos de banimento.
 
-  ## Temporary
-  Temporary bans will be lifted automatically after a certain amount of time. If they are a game ban, they will tell you how much time is remaining when you try to connect.
+  ## Temporário
+  Banimentos temporários serão removidos automaticamente após um certo período de tempo. Se for um banimento de jogo, ele informará quanto tempo resta quando você tentar conectar.
 
-  ## Indefinite
-  These bans will only be removed on a successful appeal on the forums. Any ban which doesn't tell you when it expires and doesn't specify otherwise can be presumed to be an indefinite ban.
+  ## Indeterminado
+  Estes banimentos só serão removidos mediante um recurso bem-sucedido nos fóruns. Qualquer banimento que não informe quando expira e não especifique o contrário pode ser considerado um banimento indeterminado.
 
-  ## Voucher
-  This is an indefinite ban which may only be appealed both with a successful appeal and which require a voucher of good behavior from the administrative team of a well-known or at least decently active SS13/SS14 server in order for the appeal to be considered. Voucher bans typically cannot be appealed for at least six months after being issued. Without a voucher, a player can only attempt to appeal a voucher ban once, and only if the ban was inappropriately placed. Voucher bans are typically only placed as a result of an unsuccessful appeal of an indefinite game ban by players with a history of bans and of causing issues.
+  ## Voucher (Atestado de Boa Conduta)
+  Este é um banimento indeterminado que só pode ser contestado com um recurso bem-sucedido E que exige um atestado de boa conduta da equipe administrativa de um servidor SS13/SS14 bem conhecido ou pelo menos razoavelmente ativo para que o recurso seja considerado. Banimentos por voucher tipicamente não podem ser contestados por pelo menos seis meses após serem emitidos. Sem um voucher, um jogador só pode tentar contestar um banimento por voucher uma vez, e apenas se o banimento foi aplicado inadequadamente. Banimentos por voucher são tipicamente aplicados apenas como resultado de um recurso malsucedido de um banimento de jogo indeterminado por jogadores com histórico de banimentos e de causar problemas.
 
-  ## Permanent
-  This is a ban that is only appealable if the ban was inappropriately placed, including if the ban should not have been permanent. If the result of the appeal is that the ban was appropriately placed, the ban may not be appealed again and will not be lifted. These bans are extremely rare, but are applied to players who continually cause problems even after a voucher ban or users who have completely unacceptable behavior may be permanently removed.
+  ## Permanente
+  Este é um banimento que só pode ser contestado se foi aplicado inadequadamente, inclusive se não deveria ter sido permanente. Se o resultado do recurso for que o banimento foi aplicado adequadamente, o banimento não pode ser contestado novamente e não será removido. Estes banimentos são extremamente raros, mas são aplicados a jogadores que continuam causando problemas mesmo após um banimento por voucher, ou usuários que tenham comportamento completamente inaceitável podem ser removidos permanentemente.
 </Document>

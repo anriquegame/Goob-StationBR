@@ -6,27 +6,27 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Do not Powergame
+  # Não pratique Powergame
 
-  You must have an In-Character justification for your actions. The Research Director does not need a gun when the station is code-green. The Head of Security does not need All Access at shift start when no threat is identified.
+  Você precisa ter uma justificativa dentro do personagem para suas ações. O Diretor de Pesquisa não precisa de uma arma quando a estação está em código verde. O Chefe de Segurança não precisa de Acesso Total no início do turno quando nenhuma ameaça foi identificada.
 
-  ## Examples
+  ## Exemplos
 
- Acceptable:
- - Command carrying non-lethals when there is a plausible threat
- - Command carrying lethals when there is a confirmed threat
- - Command carrying (non-)lethals they start with in their rooms at any time
- - Captain hiding the spare ID in a properly secure location
- - Increasing security (such as bolting doors, adding walls, etc) during Red or Blue alert
- - Several minutes into the round, Captain promotes Warden to HoS because there isn’t one on station
- - General situations where a character is reacting to information during a round in a way that makes logical sense
+  Aceitável:
+  - Comando carregando armas não-letais quando há uma ameaça plausível
+  - Comando carregando armas letais quando há uma ameaça confirmada
+  - Comando carregando armas (não-)letais que já começam com elas em suas salas a qualquer momento
+  - Capitão escondendo o ID reserva em um local devidamente seguro
+  - Aumentar a segurança (como trancar portas, adicionar paredes, etc.) durante alerta Vermelho ou Azul
+  - Alguns minutos após o início da rodada, o Capitão promove o Oficial de Carceragem a Chefe de Segurança porque não há um na estação
+  - Situações em geral onde um personagem está reagindo a informações durante uma rodada de uma forma que faça sentido lógico
 
-  Not Acceptable:
-  - Roundstart Captain granting all heads AA
-  - Roundstart HoP takes Ian to ATS because “He’s a high profile target”
-  - Creating duplicates of high-value or unique items to hand off to others
-  - Using low-effort roleplay to skirt the metashield
-  - Bolting doors to areas to increase their security before a threat is confirmed that makes that security inefficient
-  - Setting the alert level to Blue or Red when the situation does not have a need for the severity implied (this includes maintaining these levels far past when said threats have been confirmed as no longer in play)
-  - General situations where a character is preemptively preparing for situations that have yet to happen in ways that logically do not make sense
+  Não Aceitável:
+  - Capitão no início da rodada concedendo Acesso Total a todos os chefes
+  - O Chefe de Pessoal leva Ian para a Estação de Transferência de Antenas porque "ele é um alvo de alto perfil"
+  - Criar duplicatas de itens de alto valor ou únicos para entregar a outros
+  - Usar roleplay de baixo esforço para driblar o meta-escudo
+  - Trancar portas de áreas para aumentar a segurança antes que uma ameaça seja confirmada, tornando essa segurança ineficiente
+  - Colocar o nível de alerta como Azul ou Vermelho quando a situação não exige a gravidade implicada (isso inclui manter esses níveis muito depois de as ameaças terem sido confirmadas como não estando mais em jogo)
+  - Situações em geral onde um personagem está se preparando preventivamente para situações que ainda não aconteceram de maneiras que logicamente não fazem sentido
 </Document>

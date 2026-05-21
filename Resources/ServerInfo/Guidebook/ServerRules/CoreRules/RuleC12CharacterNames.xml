@@ -12,127 +12,124 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Core Rule 13 - Use realistic character names, and do not use names of famous people
-  - No names of people or characters fictional or real from our world. You are not slick if you switch a few letters around.
-  - No titles/honorifics (Exceptions being generational titles like "Jr" or "I", "II", "III", etc), nicknames, or shortenings. Use proper capitalization (e.g. NOT J Hoffman or jaiden mallow).
-  - Must follow all other rules (no slurs/sexual names/etc)
-  - Usernames, objects, random characters, very "low effort" names, "meta" names, or otherwise implausible names cannot be used as names. See examples below.
-  - Admin rulings on IC names are final and disputes should be done through the forums, not by refusing to comply with an admin
-  - Species have naming conventions that are part of their in-universe culture. These may be subverted if they have sufficient in-character reasoning and effort to explain their non-standard name. Non-standard names are held to higher scrutiny and you may be questioned on why your name breaks these conventions.
+  # Regra Principal 13 - Use nomes de personagem realistas e não use nomes de pessoas famosas
+  - Nada de nomes de pessoas ou personagens fictícios ou reais do nosso mundo. Você não é esperto se trocar algumas letras.
+  - Nada de títulos/honoríficos (exceções sendo títulos geracionais como "Jr" ou "I", "II", "III", etc.), apelidos ou abreviações. Use capitalização adequada (ex.: NÃO J Hoffman ou jaiden mallow).
+  - Deve seguir todas as outras regras (sem insultos/nomes sexuais/etc)
+  - Nomes de usuário, objetos, caracteres aleatórios, nomes de "baixo esforço", nomes "meta" ou nomes implausíveis não podem ser usados. Veja exemplos abaixo.
+  - Decisões de admin sobre nomes IC são finais e disputas devem ser feitas através dos fóruns, não recusando-se a cumprir a decisão de um admin.
+  - Espécies têm convenções de nomenclatura que fazem parte de sua cultura no universo. Estas podem ser subvertidas se houver justificativa IC suficiente e esforço para explicar o nome não padrão. Nomes não padrão são examinados com mais rigor e você pode ser questionado sobre por que seu nome quebra essas convenções.
 
-  # Naming Conventions:
-  Clowns and mimes are exempt from the prohibition on titles/honorifics and have loosened restrictions on low-effort and implausible names.
+  # Convenções de Nomenclatura:
+  Palhaços e mímicos estão isentos da proibição de títulos/honoríficos e têm restrições mais flexíveis em nomes de baixo esforço e implausíveis.
 
-  ## Clarification on "Meta" Names
-  Meta names attempt to take advantage of some game mechanic or game design choice. "Urist McHands" is a meta name because it is the default name for admin-spawned humans. "Operator Whiskey" is a meta name because it follows the naming pattern of nuclear operatives. This rule is not intended to prevent things like nuclear operatives using a fake ID with names that appear to be nuclear operative names if they decide that they want to do that.
+  ## Esclarecimento sobre nomes "Meta"
+  Nomes meta tentam tirar vantagem de alguma mecânica ou escolha de design do jogo. "Urist McHands" é um nome meta porque é o nome padrão para humanos gerados por admin. "Operativo Whiskey" é um nome meta porque segue o padrão de nomenclatura dos operativos nucleares. Esta regra não tem a intenção de impedir coisas como operativos nucleares usando uma identificação falsa com nomes que parecem ser de operativos nucleares se eles decidirem que querem fazer isso.
 
-  ## Conventions and Examples
+  ## Convenções e Exemplos
 
-  Any name considered [color=#449944]Good:[/color] can be used for the species it falls under. Any names considered [color=#994444]Bad:[/color] cannot be used for that specie or any other species.
+  Qualquer nome considerado [color=#449944]Bom:[/color] pode ser usado para a espécie à qual pertence. Qualquer nome considerado [color=#994444]Ruim:[/color] não pode ser usado para aquela espécie ou qualquer outra.
 
-  Humans, Slimes, Dwarves, Vulpkanins, and Harpies should use the Firstname Lastname convention.
+  Humanos, Slimes, Anões, Vulpkanins e Harpias devem usar a convenção PrimeiroNome Sobrenome.
 
-  Examples
-  - [color=#449944]Good:[/color] Tom Fisher
-  - [color=#449944]Good:[/color] Spacey Chapman
-  - [color=#449944]Good:[/color] Aaron Rikes
-  - [color=#994444]Bad:[/color] Dr. Tom Fisher
-  - [color=#994444]Bad:[/color] Walter White
-  - [color=#994444]Bad:[/color] George Washington
-  - [color=#994444]Bad:[/color] Joe Biden
-  - [color=#994444]Bad:[/color] Ben Dover
-  - [color=#994444]Bad:[/color] Mike Hunt
-  - [color=#994444]Bad:[/color] Joe Mamma
+  Exemplos
+  - [color=#449944]Bom:[/color] Tom Fisher
+  - [color=#449944]Bom:[/color] Spacey Chapman
+  - [color=#449944]Bom:[/color] Aaron Rikes
+  - [color=#994444]Ruim:[/color] Dr. Tom Fisher
+  - [color=#994444]Ruim:[/color] Walter White
+  - [color=#994444]Ruim:[/color] George Washington
+  - [color=#994444]Ruim:[/color] Joe Biden
+  - [color=#994444]Ruim:[/color] Ben Dover
+  - [color=#994444]Ruim:[/color] Mike Hunt
+  - [color=#994444]Ruim:[/color] Joe Mamma
 
+  Reptilianos devem usar a convenção "verbo-artigo-substantivo" ou a convenção Argoniana.
 
-  Reptilians should use the "verb-article-noun" or Argonian convention.
+  Exemplos
+  - [color=#449944]Bom:[/color] Cleans-the-Airlocks
+  - [color=#449944]Bom:[/color] Deekus
+  - [color=#449944]Bom:[/color] Deetum-Ja
+  - [color=#449944]Bom:[/color] Artemis
+  - [color=#449944]Bom:[/color] Rolls-the-Dice
+  - [color=#449944]Bom:[/color] Mops-The-Floors
+  - [color=#449944]Bom:[/color] Shira-Thaskan
+  - [color=#994444]Ruim:[/color] Bans-the-Admins
 
-  Examples
-  - [color=#449944]Good:[/color] Cleans-the-Airlocks
-  - [color=#449944]Good:[/color] Deekus
-  - [color=#449944]Good:[/color] Deetum-Ja
-  - [color=#449944]Good:[/color] Artemis
-  - [color=#449944]Good:[/color] Rolls-the-Dice
-  - [color=#449944]Good:[/color]Mops-The-Floors
-  - [color=#449944]Good:[/color]Shira-Thaskan
-  - [color=#994444]Bad:[/color] Bans-the-Admins
+  Dionas devem ter nomes calmos, com temática da natureza, no estilo Substantivo de Substantivo.
 
-  Diona should have calm, nature-themed, Noun of Noun style names.
+  Exemplos
+  - [color=#449944]Bom:[/color] Petal of Tranquility
+  - [color=#449944]Bom:[/color] Garden of Relaxation
+  - [color=#994444]Ruim:[/color] Tree but Alive
 
-  Examples
-  - [color=#449944]Good:[/color] Petal of Tranquility
-  - [color=#449944]Good:[/color] Garden of Relaxation
-  - [color=#994444]Bad:[/color] Tree but Alive
+  Homens-Mariposa devem usar nomes de sonoridade latina, nomes com temática de luz ou um apelido geralmente relacionado a algo que a pessoa gosta ou pela qual é conhecida.
 
-  Mothmen should use Latin sounding names, light themed names or a moniker usually related to something the person likes or is known for.
+  Exemplos
+  - [color=#449944]Bom:[/color] Socrates Temnora
+  - [color=#449944]Bom:[/color] Sierra Lightseeker
+  - [color=#449944]Bom:[/color] James Nightflitter
+  - [color=#449944]Bom:[/color] Tulip
 
-  Examples
-  - [color=#449944]Good:[/color] Socrates Temnora
-  - [color=#449944]Good:[/color] Sierra Lightseeker
-  - [color=#449944]Good:[/color] James Nightflitter
-  - [color=#449944]Good:[/color] Tulip
+  Aracnídeos devem ter nomes de sonoridade latina.
 
+  Exemplos
+  - [color=#449944]Bom:[/color] Argyroneta Reticulatus
+  - [color=#449944]Bom:[/color] Loxosceles Domesticus
+  - [color=#994444]Ruim:[/color] Spider-Man
 
-  Arachnids should have Latin-sounding names.
+  Vox usam um nome único feito de sílabas aleatórias, muitas vezes com padrões repetidos.
+  Nomes não devem ser excessivamente longos ou tão repetitivos/complicados a ponto de serem ilegíveis.
 
-  Examples
-  - [color=#449944]Good:[/color] Argyroneta Reticulatus
-  - [color=#449944]Good:[/color] Loxosceles Domesticus
-  - [color=#994444]Bad:[/color] Spider-Man
+  Exemplos
+  - [color=#449944]Bom:[/color] Hirixashahre
+  - [color=#449944]Bom:[/color] Xapikrikrik
+  - [color=#994444]Ruim:[/color] Chipikirchitchitchitbecretretrer
+  - [color=#994444]Ruim:[/color] Trololol
 
-  Vox use a single name made of random syllables, often with repeating patterns.
-  Names should not be excessively long or be so repetitive/convoluted as to be unreadable.
+  A convenção de nomenclatura Rodentia tem o primeiro nome como um descritor (Forte, Olhudo, Come-lixo) e a parte do "primeiro" sendo um nome simples ou nome de animal de estimação (Monty, Basil, Nibbles). Nomes Rodentia também podem ser simplesmente um único nome de animal de estimação.
 
-  Examples
-  - [color=#449944]Good:[/color] Hirixashahre
-  - [color=#449944]Good:[/color] Xapikrikrik
-  - [color=#994444]Bad:[/color] Chipikirchitchitchitbecretretrer
-  - [color=#994444]Bad:[/color] Trololol
+  Exemplos
+  - [color=#449944]Bom:[/color] Big Poppy
+  - [color=#449944]Bom:[/color] Fast-paws Lily
+  - [color=#449944]Bom:[/color] Strong Peanut
+  - [color=#449944]Bom:[/color] Big-eyed Basil
+  - [color=#449944]Bom:[/color] Rose
 
+  Yowies têm um nome de uma palavra de origem aborígene ou australiana.
 
-  Rodentia naming convention has the first name an descriptor (Strong, Big-eyed, Trash-eating) and the "first" part either being a simple first name or pet name (Monty, Basil, Nibbles). Rondentia names can also simply be a single pet name.
+  Exemplos
+  - [color=#449944]Bom:[/color] Mulya
+  - [color=#449944]Bom:[/color] Bilal
+  - [color=#449944]Bom:[/color] Lachlan
+  - [color=#449944]Bom:[/color] Chase
+  - [color=#994444]Ruim:[/color] Sassy the Sasquatch
+  - [color=#994444]Ruim:[/color] Bigfoot
+  - [color=#994444]Ruim:[/color] Mr Hairy
 
-  Examples
-  - [color=#449944]Good:[/color] Big Poppy
-  - [color=#449944]Good:[/color] Fast-paws Lily
-  - [color=#449944]Good:[/color] Strong Peanut
-  - [color=#449944]Good:[/color] Big-eyed Basil
-  - [color=#449944]Good:[/color] Rose
+  Nomes Tajaran consistem em nome e sobrenome. Geralmente são difíceis de pronunciar e são compostos por sílabas como "raj", "tajr", "hrar" ou "khaz". Tanto o nome quanto o sobrenome seguem esta convenção, mas sobrenomes "Hadii" "Kaytam" "Zhan-Khazan" "Hharar" "Njarir'Akhan" devem geralmente ser preferidos. Nome e sobrenome podem ser separados por apóstrofo (') em vez de espaço.
 
-  Yowies have a single word first name from aboriginal or australian culture
+  Exemplos
+  - [color=#449944]Bom:[/color] Rrjunjurlazu Aravah
+  - [color=#449944]Bom:[/color] Baqka Jrirhe
+  - [color=#449944]Bom:[/color] Jurlfar'Kaytam
+  - [color=#449944]Bom:[/color] Ii'rvahmiran Njarir'Akhan
+  - [color=#994444]Ruim:[/color] Hrhrahrhr Krkrakrkr
+  - [color=#994444]Ruim:[/color] Kitty McCat
+  - [color=#994444]Ruim:[/color] Khajit
 
-  Examples
-  - [color=#449944]Good:[/color] Mulya
-  - [color=#449944]Good:[/color] Bilal
-  - [color=#449944]Good:[/color] Lachlan
-  - [color=#449944]Good:[/color] Chase
-  - [color=#994444]Bad:[/color] Sassy the Sasquatch
-  - [color=#994444]Bad:[/color] Bigfoot
-  - [color=#994444]Bad:[/color] Mr Hairy
+  Nomes de usuário, objetos, caracteres aleatórios, nomes de muito "baixo esforço", nomes "meta" ou nomes implausíveis não são permitidos.
 
-  Tajaran names consist of first name and last name. They're usually difficult to pronounce and are made up of syllabes such as "raj", "tajr", "hrar" or "khaz". Both first and last name follow this convention, but last names "Hadii" "Kaytam" "Zhan-Khazan" "Hharar" "Njarir'Akhan" should generally be preferred. First and last name can be seperated by apostrophe (') instead of space.
-
-  Examples
-  - [color=#449944]Good:[/color] Rrjunjurlazu Aravah
-  - [color=#449944]Good:[/color] Baqka Jrirhe
-  - [color=#449944]Good:[/color] Jurlfar'Kaytam
-  - [color=#449944]Good:[/color] Ii'rvahmiran Njarir'Akhan
-  - [color=#994444]Bad:[/color] Hrhrahrhr Krkrakrkr
-  - [color=#994444]Bad:[/color] Kitty McCat
-  - [color=#994444]Bad:[/color] Khajit
-
-  Usernames, objects, random characters, very "low effort" names, "meta" names, or otherwise implausible names are not permitted.
-
-  Examples
-  - [color=#994444]Bad:[/color] XxRobustxX
-  - [color=#994444]Bad:[/color] SDpksSodjdfk
-  - [color=#994444]Bad:[/color] Lkdsoisgoieun
-  - [color=#994444]Bad:[/color] F4ith H3arth
-  - [color=#994444]Bad:[/color] Greytide
-  - [color=#994444]Bad:[/color] Passenger
-  - [color=#994444]Bad:[/color] Urist McHands
-  - [color=#994444]Bad:[/color] Admin
-  - [color=#994444]Bad:[/color] Game-Master
-  - [color=#994444]Bad:[/color] Operative Whiskey
-  - [color=#994444]Bad:[/color] Middle-Aged Man
+  Exemplos
+  - [color=#994444]Ruim:[/color] XxRobustxX
+  - [color=#994444]Ruim:[/color] SDpksSodjdfk
+  - [color=#994444]Ruim:[/color] Lkdsoisgoieun
+  - [color=#994444]Ruim:[/color] F4ith H3arth
+  - [color=#994444]Ruim:[/color] Greytide
+  - [color=#994444]Ruim:[/color] Passenger
+  - [color=#994444]Ruim:[/color] Urist McHands
+  - [color=#994444]Ruim:[/color] Admin
+  - [color=#994444]Ruim:[/color] Game-Master
+  - [color=#994444]Ruim:[/color] Operative Whiskey
+  - [color=#994444]Ruim:[/color] Middle-Aged Man
 </Document>
