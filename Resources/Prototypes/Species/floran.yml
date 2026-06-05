@@ -69,19 +69,19 @@
   id: MobFloranHead
   baseSprite:
     sprite: Mobs/Species/Floran/parts.rsi
-    state: head
+    state: head_m
 
 - type: humanoidBaseSprite
   id: MobFloranHeadMale
   baseSprite:
     sprite: Mobs/Species/Floran/parts.rsi
-    state: head
+    state: head_m
 
 - type: humanoidBaseSprite
   id: MobFloranHeadFemale
   baseSprite:
     sprite: Mobs/Species/Floran/parts.rsi
-    state: head
+    state: head_f
 
 - type: humanoidBaseSprite
   id: MobFloranChest
@@ -105,19 +105,19 @@
   id: MobFloranGroin
   baseSprite:
     sprite: Mobs/Species/Floran/parts.rsi
-    state: groin
+    state: groin_m
 
 - type: humanoidBaseSprite
   id: MobFloranGroinMale
   baseSprite:
     sprite: Mobs/Species/Floran/parts.rsi
-    state: groin
+    state: groin_m
 
 - type: humanoidBaseSprite
   id: MobFloranGroinFemale
   baseSprite:
     sprite: Mobs/Species/Floran/parts.rsi
-    state: groin
+    state: groin_f
 
 - type: humanoidBaseSprite
   id: MobFloranLLeg

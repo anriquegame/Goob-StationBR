@@ -65,7 +65,7 @@
   parent: [PartFloran, BaseGroin]
   components:
   - type: Sprite
-    state: "groin"
+    state: "groin_m"
 
 - type: entity
   id: HeadFloran
@@ -73,7 +73,7 @@
   parent: [PartFloran, BaseHead]
   components:
   - type: Sprite
-    state: "head"
+    state: "head_m"
 
 - type: entity
   id: LeftArmFloran
