@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Assets from Monkey Station. Ported by anriquegame",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "Leaves1",
+      "directions": 4
+    },
+    {
+      "name": "Leaves2",
+      "directions": 4
+    },
+    {
+      "name": "Leaves3",
+      "directions": 4
+    },
+    {
+      "name": "Leaves4",
+      "directions": 4
+    },
+    {
+      "name": "Leaves5",
+      "directions": 4
+    }
+  ]
+}

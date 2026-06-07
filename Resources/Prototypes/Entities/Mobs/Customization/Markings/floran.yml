@@ -1,0 +1,76 @@
+# SPDX-FileCopyrightText: 2023 Morb <14136326+Morb0@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Nemanja <98561806+EmoGarbage404@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 csqrb <56765288+CaptainSqrBeard@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+#
+# SPDX-License-Identifier: MIT
+
+- type: marking
+  id: FloranLeavesOverlay1
+  bodyPart: LLeg
+  markingCategory: Overlay
+  speciesRestriction: [Floran]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+        color: "#5f7039"
+  sprites:
+  - sprite: Mobs/Customization/floran.rsi
+    state: Leaves1
+
+- type: marking
+  id: FloranLeavesOverlay2
+  bodyPart: LLeg
+  markingCategory: Overlay
+  speciesRestriction: [Floran]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+        color: "#5f7039"
+  sprites:
+  - sprite: Mobs/Customization/floran.rsi
+    state: Leaves2
+
+- type: marking
+  id: FloranLeavesOverlay3
+  bodyPart: LLeg
+  markingCategory: Overlay
+  speciesRestriction: [Floran]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+        color: "#5f7039"
+  sprites:
+  - sprite: Mobs/Customization/floran.rsi
+    state: Leaves3
+
+- type: marking
+  id: FloranLeavesOverlay4
+  bodyPart: LLeg
+  markingCategory: Overlay
+  speciesRestriction: [Floran]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+        color: "#5f7039"
+  sprites:
+  - sprite: Mobs/Customization/floran.rsi
+    state: Leaves4
+
+- type: marking
+  id: FloranLeavesOverlay5
+  bodyPart: LLeg
+  markingCategory: Overlay
+  speciesRestriction: [Floran]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+        color: "#5f7039"
+  sprites:
+  - sprite: Mobs/Customization/floran.rsi
+    state: Leaves5

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Original assets from Monkey Station. Ported by anriquegame",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "floranhair1",
+      "directions": 4
+    },
+    {
+      "name": "floranhair2",
+      "directions": 4
+    },
+    {
+      "name": "floranhair3",
+      "directions": 4
+    },
+    {
+      "name": "floranhair4",
+      "directions": 4
+    },
+    {
+      "name": "floranhair5",
+      "directions": 4
+    },
+    {
+      "name": "floranhair6",
+      "directions": 4
+    },
+    {
+      "name": "floranhair7",
+      "directions": 4
+    },
+    {
+      "name": "floranhair8",
+      "directions": 4
+    },
+    {
+      "name": "floranhair9",
+      "directions": 4
+    },
+    {
+      "name": "floranhair10",
+      "directions": 4
+    }
+  ]
+}
