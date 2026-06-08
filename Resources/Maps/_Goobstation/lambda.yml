@@ -198573,6 +198573,18 @@ entities:
     - type: Transform
       pos: -8.5,70.5
       parent: 2
+- proto: SpawnPointRoboticist
+  entities:
+  - uid: 91313
+    components:
+    - type: Transform
+      pos: 8.5,89.5
+      parent: 2
+  - uid: 91314
+    components:
+    - type: Transform
+      pos: 4.5,86.5
+      parent: 2
 - proto: SpawnPointSalvageSpecialist
   entities:
   - uid: 29678
