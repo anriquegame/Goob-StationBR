@@ -264302,12 +264302,12 @@ entities:
       parent: 2
 - proto: SpawnPointRoboticist
   entities:
-  - uid: 30713
+  - uid: 91313
     components:
     - type: Transform
       pos: 58.5,75.5
       parent: 2
-  - uid: 30714
+  - uid: 91314
     components:
     - type: Transform
       pos: 59.5,75.5

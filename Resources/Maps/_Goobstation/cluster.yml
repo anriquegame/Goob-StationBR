@@ -69486,12 +69486,12 @@ entities:
       parent: 2
 - proto: SpawnPointRoboticist
   entities:
-  - uid: 4703
+  - uid: 91313
     components:
     - type: Transform
       pos: -10.5,-12.5
       parent: 2
-  - uid: 4704
+  - uid: 91314
     components:
     - type: Transform
       pos: -6.5,-14.5

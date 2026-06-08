@@ -219098,12 +219098,12 @@ entities:
       parent: 2
 - proto: SpawnPointRoboticist
   entities:
-  - uid: 24668
+  - uid: 91313
     components:
     - type: Transform
       pos: -6.5,-48.5
       parent: 2
-  - uid: 24669
+  - uid: 91314
     components:
     - type: Transform
       pos: -5.5,-46.5

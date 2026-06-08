@@ -89991,12 +89991,12 @@ entities:
       parent: 2
 - proto: SpawnPointRoboticist
   entities:
-  - uid: 15874
+  - uid: 91313
     components:
     - type: Transform
       pos: -3.5,-2.5
       parent: 2
-  - uid: 15875
+  - uid: 91314
     components:
     - type: Transform
       pos: -4.5,-2.5
